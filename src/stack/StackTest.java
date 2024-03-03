@@ -1,4 +1,5 @@
-package main.java.stack;
+package stack;
+
 
 import org.junit.Test;
 

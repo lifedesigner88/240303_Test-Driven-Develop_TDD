@@ -1,4 +1,4 @@
-package main.java.stack;
+package stack;
 
 public class MyStack {
     public boolean isEmpty(){
